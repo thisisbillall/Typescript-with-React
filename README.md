@@ -1,2 +1,2 @@
 # Typescript-with-React
-Created with CodeSandbox
+Here in this Sandbox i have shown the Magic of React's Reusablity and TypeScript.
